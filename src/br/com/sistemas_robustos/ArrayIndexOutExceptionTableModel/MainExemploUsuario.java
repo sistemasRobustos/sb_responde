@@ -15,6 +15,7 @@ public class MainExemploUsuario {
     public static void main(String[] args) {
         DefaultTableModel tbVendas = new DefaultTableModel();
     
+        
         tbVendas.addColumn("Data Venda");
         tbVendas.addColumn("Cliente");
         tbVendas.addColumn("Funcionario");
